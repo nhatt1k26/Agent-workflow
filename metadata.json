@@ -1,0 +1,6 @@
+{
+  "name": "AgentFlow AI - Hệ thống Tạo & Quản lý Workflow AI Agent",
+  "description": "Visual Editor kéo thả node, cấu hình AI Agent, chọn model, prompt context, input/output variables, thực thi đa node tự động với Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
